@@ -1,2 +1,2 @@
-# alba
-Sistema para gerenciamento de acervo pessoal proporcionando o controle de seus livros e de empréstimos
+# Alba
+Sistema para gerenciamento de acervo pessoal proporcionando o controle de seus livros e de empréstimos.
